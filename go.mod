@@ -13,7 +13,7 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/jackc/pgx/v4 v4.6.0
 	github.com/jonboulle/clockwork v0.1.0
-	github.com/spf13/cobra v1.1.3
+	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.2
 	go.uber.org/goleak v1.0.0
@@ -21,7 +21,7 @@ require (
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29
 	golang.org/x/perf v0.0.0-20191209155426-36b577b0eb03
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.7.0
+	golang.org/x/sys v0.19.0
 	golang.org/x/tools v0.7.0
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	gopkg.in/yaml.v2 v2.4.0
@@ -45,7 +45,7 @@ require (
 	github.com/goccy/go-json v0.10.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/btree v1.1.2 // indirect
-	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jackc/chunkreader/v2 v2.0.1 // indirect
 	github.com/jackc/pgconn v1.5.0 // indirect
 	github.com/jackc/pgio v1.0.0 // indirect
@@ -60,13 +60,16 @@ require (
 	github.com/klauspost/cpuid/v2 v2.0.9 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/lib/pq v1.10.0 // indirect
-	github.com/mattn/go-isatty v0.0.17 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
+	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.6 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
+	github.com/rivo/uniseg v0.4.7 // indirect
+	github.com/schollz/progressbar/v3 v3.14.2 // indirect
 	github.com/sergi/go-diff v1.0.0 // indirect
 	github.com/src-d/gcfg v1.4.0 // indirect
 	github.com/stretchr/objx v0.5.0 // indirect
@@ -81,6 +84,7 @@ require (
 	golang.org/x/lint v0.0.0-20190930215403-16217165b5de // indirect
 	golang.org/x/mod v0.9.0 // indirect
 	golang.org/x/net v0.9.0 // indirect
+	golang.org/x/term v0.19.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
